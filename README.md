@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Ronnie Obiayo - Github:(https://github.com/RObiayo)
-Henry Nyobange - Github:(https://github.com/henryotieno)
+Jeremih Kuria - Github:(https://github.com/InfinityJer)
 
 Second part of Airbnb: Henry Nyobange
 ## License
